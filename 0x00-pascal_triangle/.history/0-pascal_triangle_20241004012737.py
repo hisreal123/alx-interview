@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-"""a list of lists of integers representing the pascal's triangle of n;"""
+#!/usr/bin/python3a list of lists of integers representing the pascal's triangle of n;
 
 def pascal_triangle(n):
     triangle = [[1]]  # First row is always [1]
